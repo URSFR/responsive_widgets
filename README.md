@@ -6,8 +6,8 @@ Easy way to implement responsive widgets
 ```dart
      ResponsiveContainer(
       backgroundColor: backgroundColor, // Optional
-      desiredWidth: (size.width*desiredWidth)/610, // Required
-      desiredHeight: (size.height*desiredHeight)/610, // Required
+      desiredWidth: width, // Required
+      desiredHeight: height, // Required
       child: child, // Required
     );
 ```
