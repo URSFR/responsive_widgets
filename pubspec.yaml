@@ -1,6 +1,6 @@
-name: responsive_widgets
+name: responsive_simple
 description: Flutter Package for responsive widgets.
-version: 0.0.1
+version: 0.0.3
 homepage: https://rstpublicportfolio.web.app/#/
 repository:
 
